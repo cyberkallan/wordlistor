@@ -2,6 +2,8 @@
 sleep 2
 figlet Cyber kallan
 sleep 8
+echo $blue . " PLEASE SUBSCRIBE MY YOUTUBE CHANNEL";
+sleep 4
 # Wordlist Creator
 string=( {a..z} )
 for x in ${string[@]}; do
