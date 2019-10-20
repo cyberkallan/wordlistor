@@ -1,7 +1,7 @@
 #!/bin/bash
 sleep 2
 figlet Cyber kallan
-sleep 2
+sleep 8
 # Wordlist Creator
 string=( {a..z} )
 for x in ${string[@]}; do
