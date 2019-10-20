@@ -1,11 +1,11 @@
 #!/bin/bash
 sleep 2
 figlet Cyber kallan
-sleep 8
+sleep 6
 echo $blue."PLEASE SUBSCRIBE MY YOUTUBE CHANNEL";
 sleep 4
- GENARATING WORDLIST FOR YOU                                                                                            
-sleep 2
+echo GENARATING WORDLIST FOR YOU";                                                                                            
+sleep 4
                                                                      
 
 string=( {a..z} )
