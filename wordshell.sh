@@ -2,9 +2,9 @@
 sleep 2
 figlet Cyber kallan
 sleep 6
-echo $blue."PLEASE SUBSCRIBE MY YOUTUBE CHANNEL";
+echo $blue." PLEASE SUBSCRIBE MY YOUTUBE CHANNEL";
 sleep 4
-echo GENARATING WORDLIST FOR YOU";                                                                                            
+echo $Red." GENARATING WORDLIST FOR YOU";                                                                                            
 sleep 4
                                                                      
 
