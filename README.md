@@ -6,4 +6,4 @@ Simple Wordlist Creator in Shell Script
 
 
 
-https://drive.google.com/file/d/1Q86dxdV7Rmn1-iYU1vPcL8umJTmVsRQ0/view?usp=drivesdk
+
